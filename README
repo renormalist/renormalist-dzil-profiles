@@ -1,5 +1,7 @@
 Personal Disz::Zilla profiles for Steffen "renormalist" Schwigon
 
-Probably not usefule for someone else, except as example pattern.
+Probably not useful for someone else, except as example pattern.
 
-git clone git@github.com:renormalist/renormalist-dzil-profiles.git ~/.dzil/
+Usage:
+
+  git clone git@github.com:renormalist/renormalist-dzil-profiles.git ~/.dzil/
